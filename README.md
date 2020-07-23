@@ -33,7 +33,6 @@ dependencies {
   implementation 'org.hibernate:hibernate-entitymanager'
   implementation 'commons-dbcp:commons-dbcp'
   implementation 'javax.servlet:jstl'
-  implementation 'junit:junit'
   runtimeOnly 'mysql:mysql-connector-java'
 }
 ```
